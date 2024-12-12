@@ -12,6 +12,7 @@ This project aims to comprehensively compare full finetuning and sparse finetuni
 | Implementation of full finetuning                  | Completed      |
 | Implementation of BitFit                           | Completed      |
 | Implementation of LoRA                             | Completed      |
+| Implementation of QLoRA                            | Completed      |
 | Comparative analysis of methods                    | Completed      |
 | Visualization and reporting                        | Completed      |
 
